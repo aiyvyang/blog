@@ -1,4 +1,4 @@
-<p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
+<p align="center"><a href="https://blog.aiyvyang.top/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://cdn.staticaly.com/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/vuepress-theme-vdoing"><img alt="npm" src="https://img.shields.io/npm/v/vuepress-theme-vdoing"></a>
@@ -13,7 +13,7 @@
 
 
  [文档](https://doc.xugaoyi.com/)  |
- [效果](https://xugaoyi.com/)  |
+ [效果](https://blog.aiyvyang.top/)  |
  [本仓库的gitee镜像](https://gitee.com/xugaoyi/vuepress-theme-vdoing)
 
 <br/>
@@ -36,7 +36,7 @@
 [**更新日志**](https://github.com/xugaoyi/vuepress-theme-vdoing/releases)
 
 ## 这个主题可以做什么？
-* 案例1：[知识库兼博客站](https://xugaoyi.com/)
+* 案例1：[知识库兼博客站](https://blog.aiyvyang.top/)
 * 案例2：[仅博客站](https://xugaoyi.github.io/vdoing-demo-blog/)
 * 案例3：[仅知识库](https://xugaoyi.github.io/vdoing-demo-repository/)
 * 案例4：[文档站](https://doc.xugaoyi.com/)
